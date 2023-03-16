@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Mar 2023 11:13:45 at https://html.rainbow-themes.net/seoes/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.rainbow-themes.net/seoes/?storefront=envato-elements -O1 "C:\My Web Sites\Rainbow" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:19:31	Warning: 	File not parsed, looks like binary: https://html.rainbow-themes.net/seoes/assets/css/revolution/openhand.cur
+11:19:31	Warning: 	File not parsed, looks like binary: https://html.rainbow-themes.net/seoes/assets/css/revolution/closedhand.cur
+11:19:31	Error: 	"Not Found" (404) at link https://html.rainbow-themes.net/seoes/assets/css/assets/gridtile.png (from https://html.rainbow-themes.net/seoes/assets/css/revolution/settings.css)
+11:19:31	Error: 	"Not Found" (404) at link https://html.rainbow-themes.net/seoes/assets/css/assets/gridtile_white.png (from https://html.rainbow-themes.net/seoes/assets/css/revolution/settings.css)
+11:19:31	Error: 	"Not Found" (404) at link https://html.rainbow-themes.net/seoes/assets/css/assets/gridtile_3x3.png (from https://html.rainbow-themes.net/seoes/assets/css/revolution/settings.css)
+11:19:31	Error: 	"Not Found" (404) at link https://html.rainbow-themes.net/seoes/assets/css/assets/gridtile_3x3_white.png (from https://html.rainbow-themes.net/seoes/assets/css/revolution/settings.css)
+11:19:31	Error: 	"Not Found" (404) at link https://html.rainbow-themes.net/seoes/assets/css/assets/coloredbg.png (from https://html.rainbow-themes.net/seoes/assets/css/revolution/settings.css)
+11:19:31	Error: 	"Not Found" (404) at link https://html.rainbow-themes.net/seoes/assets/css/assets/loader.gif (from https://html.rainbow-themes.net/seoes/assets/css/revolution/settings.css)
+11:19:31	Error: 	"Not Found" (404) at link https://html.rainbow-themes.net/seoes/creative-campaigns.html; (from https://html.rainbow-themes.net/seoes/portfolio-4column-full-width.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 46 seconds : 355 links scanned, 347 files written (20951981 bytes overall) [15906511 bytes received at 45972 bytes/sec], 7792961 bytes transferred using HTTP compression in 119 files, ratio 25%, 17.7 requests per connection
+(7 errors, 2 warnings, 0 messages)
